@@ -1,4 +1,4 @@
-# MLOPs-Production-Ready-Machine-Learning-Project
+# MLOPs Machine Learning
 
 - Anaconda: https://www.anaconda.com/
 - Vs code: https://code.visualstudio.com/download
